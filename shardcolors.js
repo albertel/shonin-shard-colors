@@ -7,6 +7,7 @@ var jumpColors = {
     // jump# is row# - 2
     1: {
 	1: 'enl',
+	2: 'res',
 	3: 'res',
 	4: 'res',
 	5: 'enl',
