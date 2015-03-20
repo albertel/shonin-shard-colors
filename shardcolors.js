@@ -3,6 +3,8 @@
 
 var jumpColors = {
     // See jumps here: https://docs.google.com/spreadsheets/d/1gqFkXJnfYJOeEIO9IP_S_bfSqch8bfh_xx_zZn9y6rk/edit#gid=51721181
+    // Each shard has it's own tab.
+    // jump# is row# - 2
     1: {
 	1: 'enl',
 	3: 'res',
@@ -34,7 +36,6 @@ var jumpColors = {
     5: {
 	33: 'jump',
     },
-    // See jumps here: https://docs.google.com/spreadsheets/d/1gqFkXJnfYJOeEIO9IP_S_bfSqch8bfh_xx_zZn9y6rk/edit#gid=2041471328
     6: {
 	1: 'jump',
 	2: 'enl',
@@ -101,8 +102,6 @@ var jumpColors = {
     21: {
 	36: 'enl',
     },
-    // See jumps here: https://docs.google.com/spreadsheets/d/1gqFkXJnfYJOeEIO9IP_S_bfSqch8bfh_xx_zZn9y6rk/edit#gid=1403831521
-    // Jump# is row# - 2
     22: {
 	19: 'res', // -> NASA Water Tower
 	20: 'enl',
