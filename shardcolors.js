@@ -23,6 +23,16 @@ var jumpColors = {
 	18: 'enl',
 	19: 'jump',
 	23: 'enl',
+	29: 'res',
+    },
+    2: {
+	16: 'jump',
+    },
+    3: {
+	49: 'enl',
+    },
+    5: {
+	33: 'jump',
     },
     // See jumps here: https://docs.google.com/spreadsheets/d/1gqFkXJnfYJOeEIO9IP_S_bfSqch8bfh_xx_zZn9y6rk/edit#gid=2041471328
     6: {
@@ -52,6 +62,45 @@ var jumpColors = {
 	24: 'enl',
 	25: 'enl',
     },
+    7: {
+	40: 'enl',
+    },
+    9: {
+	38: 'enl',
+    },
+    10: {
+	25: 'res',
+    },
+    12: {
+	26: 'res',
+    },
+    17: {
+	32: 'enl',
+    },
+    18: {
+	24: 'res',
+    },
+    20: {
+	9: 'res',
+	11: 'res',
+	10: 'res',
+	12: 'res',
+	13: 'res',
+	14: 'res',
+	15: 'res',
+	16: 'res',
+	17: 'res',
+	18: 'res',
+	19: 'res',
+	20: 'res',
+	21: 'res',
+	23: 'enl',
+	24: 'enl',
+	28: 'jump',
+    },
+    21: {
+	36: 'enl',
+    },
     // See jumps here: https://docs.google.com/spreadsheets/d/1gqFkXJnfYJOeEIO9IP_S_bfSqch8bfh_xx_zZn9y6rk/edit#gid=1403831521
     // Jump# is row# - 2
     22: {
@@ -67,5 +116,20 @@ var jumpColors = {
 	28: 'res',
 	29: 'res',
 	30: 'res',
+    },
+    24: {
+	24: 'enl',
+    },
+    25: {
+	49: 'res',
+    },
+    26: {
+	36: 'enl',
+    },
+    29: {
+	25: 'enl',
+    },
+    31: {
+	43: 'res',
     },
 };
