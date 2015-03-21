@@ -1005,4 +1005,4 @@ var jumpColors = {
     42: 'res',
     43: 'res',
   },
-}
+};
