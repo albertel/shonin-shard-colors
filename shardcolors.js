@@ -1,4 +1,10 @@
+// First level is the shard number, second level is th jump number.
+// 'jump' -> Shard Jumped on it's own no link.
+
 var jumpColors = {
+  // See jumps here: https://docs.google.com/spreadsheets/d/1gqFkXJnfYJOeEIO9IP_S_bfSqch8bfh_xx_zZn9y6rk/edit#gid=51721181
+  // Each shard has it's own tab.
+  // jump# is row# - 2
   1: {
     1: 'enl',
     2: 'res',
